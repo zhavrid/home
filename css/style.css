@@ -1,0 +1,42 @@
+.disablescroll{
+  overflow: hidden;
+}
+#modalSignin{
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  display: none;
+  position: absolute;
+  align-items: center;
+  justify-content: center; 
+}
+#modalSignins{
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  display: none;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+#divWin {
+  width: 100%;
+  max-width: 500px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+p{
+  cursor:pointer;
+}
+
+.logo{
+  width: 70px;
+  height: 40px;
+  padding-right: 20px;
+}
